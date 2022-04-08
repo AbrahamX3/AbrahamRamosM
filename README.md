@@ -1,5 +1,5 @@
 
-### Abraham Ramos M - Aspiring Full Stack Web Developer
+### Abraham Ramos M - Full Stack Web Developer
 
 ##### 🌱 I’m currently learning SvelteKit, Next.js & Larvel!
 
